@@ -14,7 +14,7 @@ Open for any projects (hmu in Discord CyberShark#3467 )
     * FCM
     * Retrofit
     * Software Acrchitecture
-- 💬 Ask me about any of my code 
-- ⚡ Fun fact: Cat person
+- 💬 Feel free to ask or criticize any of my code 
+- ⚡ Fun fact: I'm a Cat person
 
 For My List of Projects, [Go here](https://gist.github.com/Sharkaboi/e1f63145591a5d118d5612f1bdc78417)
