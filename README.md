@@ -16,4 +16,4 @@ Open for any projects (hmu in Discord CyberShark#3467 )
 - 💬 Ask me about any of my code 
 - ⚡ Fun fact: Cat person
 
-For My List of Projects, [Go here](https://github.com/Sharkaboi/AttendanceManager)
+For My List of Projects, [Go here](https://gist.github.com/Sharkaboi/e1f63145591a5d118d5612f1bdc78417)
