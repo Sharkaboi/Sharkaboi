@@ -10,6 +10,7 @@ Open for any projects (hmu in Discord CyberShark#3467 )
     * [SharkPlayer](https://github.com/Sharkaboi/SharkPlayer)
 - 🌱 I’m currently learning 
     * WorkManager
+    * Dagger Hilt
     * FCM
     * Retrofit
     * Software Acrchitecture
