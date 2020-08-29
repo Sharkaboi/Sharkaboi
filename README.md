@@ -4,6 +4,7 @@ Open for any projects (hmu in Discord CyberShark#3467 )
 
 - 🔭 I’m currently working on 
     * [Mediahub](https://github.com/Sharkaboi/MediaHub)
+    * [Dictionary](https://github.com/Sharkaboi/Dictionary)
     * [Birthday Remainder](https://github.com/Sharkaboi/Birthday_Remainder)
     * [Attendance Manager](https://github.com/Sharkaboi/AttendanceManager)
     * [SharkPlayer](https://github.com/Sharkaboi/SharkPlayer)
