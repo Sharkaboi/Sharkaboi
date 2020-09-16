@@ -33,5 +33,5 @@ Hmu here:
   <img src="https://img.shields.io/badge/SO-CyberShark-orange" />
 </a>
 <a href="https://www.instagram.com/sharkaboiii/" alt="IG">
-  <img src="https://img.shields.io/badge/IG-sharkaboiii-ff69b4" />
+  <img src="https://img.shields.io/badge/IG-@sharkaboiii-ff69b4" />
 </a>
