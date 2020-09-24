@@ -10,8 +10,8 @@
 For My List of Projects, [Go here](https://gist.github.com/Sharkaboi/e1f63145591a5d118d5612f1bdc78417)
 
 Hmu here:  
-<a href="https://twitter.com/Cyber_Shark_YT" alt="Twitter">
-   <img src="https://img.shields.io/badge/Twitter-%40Cyber__Shark__YT-blue" />
+<a href="https://twitter.com/sharkaboi" alt="Twitter">
+   <img src="https://img.shields.io/badge/Twitter-%40sharkaboi-blue" />
 </a>
 <a href="https://www.reddit.com/user/SharkaBoi" alt="Reddit">
    <img src="https://img.shields.io/badge/Reddit-u%2FSharkaBoi-orange" />
