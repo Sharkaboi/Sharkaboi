@@ -9,6 +9,8 @@
 
 For My List of Projects, [Go here](https://gist.github.com/Sharkaboi/e1f63145591a5d118d5612f1bdc78417)
 
+![Profile views](https://gpvc.arturio.dev/sharkaboi "( ͡° ͜ʖ ͡°)")
+
 Hmu here:  
 <a href="https://twitter.com/sharkaboi" alt="Twitter">
    <img src="https://img.shields.io/badge/Twitter-%40sharkaboi-blue" />
