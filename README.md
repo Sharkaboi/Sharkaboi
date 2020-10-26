@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
+    * [Attendance Manager](https://github.com/Sharkaboi/AttendanceManager)
     * [Mediahub](https://github.com/Sharkaboi/MediaHub)
     * [Dictionary](https://github.com/Sharkaboi/Dictionary)
     * [Birthday Remainder](https://github.com/Sharkaboi/Birthday_Remainder)
-    * [Attendance Manager](https://github.com/Sharkaboi/AttendanceManager)
-- 💬 Feel free to ask about my code.
+- 💬 Feel free to hmu anytime on anything.
 
-For My List of Projects, [Go here](https://gist.github.com/Sharkaboi/e1f63145591a5d118d5612f1bdc78417)
-
-![Profile views](https://gpvc.arturio.dev/sharkaboi "( ͡° ͜ʖ ͡°)")
+For My List of Projects, [Go here](https://sarath.is-a.dev/projects/)
 
 Hmu here:  
 <a href="https://sarath.is-a.dev/blog/" alt="Blog">
@@ -39,4 +37,9 @@ Hmu here:
 </a>
 <a href="https://www.instagram.com/sharkaboiii/" alt="IG">
   <img src="https://img.shields.io/badge/IG-@sharkaboiii-ff69b4" />
+</a>
+<br><br>
+
+<a href="#" alt="( ͡° ͜ʖ ͡°)">
+  <img src="https://gpvc.arturio.dev/sharkaboi" />
 </a>
