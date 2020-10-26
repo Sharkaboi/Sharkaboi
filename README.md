@@ -12,6 +12,9 @@ For My List of Projects, [Go here](https://gist.github.com/Sharkaboi/e1f63145591
 ![Profile views](https://gpvc.arturio.dev/sharkaboi "( ͡° ͜ʖ ͡°)")
 
 Hmu here:  
+<a href="https://sarath.is-a.dev/blog/" alt="Blog">
+   <img src="https://img.shields.io/badge/Blog-sarath.is--a.dev%2Fblog-green" />
+</a>
 <a href="https://twitter.com/sharkaboi" alt="Twitter">
    <img src="https://img.shields.io/badge/Twitter-%40sharkaboi-blue" />
 </a>
@@ -25,7 +28,7 @@ Hmu here:
    <img src="https://img.shields.io/badge/Youtube-Cyber%20SharK-red" />
 </a>
 <br>
-<a href="https://discord.com/invite/3h9d7z4" alt="Discord">
+<a href="https://discord.com/users/287436478030544896" alt="Discord">
    <img src="https://img.shields.io/badge/Discord-CyberShark%233467-9cf" />
 </a>
 <a href="https://medium.com/@cybershark" alt="Medium">
