@@ -1,15 +1,9 @@
-### Hi there 👋
+<img src="./assets/hey-banner.png">
 
-- 🔭 I’m currently working on 
-    * [Attendance Manager](https://github.com/Sharkaboi/AttendanceManager)
-    * [Mediahub](https://github.com/Sharkaboi/MediaHub)
-    * [Dictionary](https://github.com/Sharkaboi/Dictionary)
-    * [Birthday Remainder](https://github.com/Sharkaboi/Birthday_Remainder)
-- 💬 Feel free to hmu anytime on anything.
+- Android dev, Tech enthusiast & Full on anime weeb. 
+- [Check out my projects](https://sarath.is-a.dev/projects/)
 
-For My List of Projects, [Go here](https://sarath.is-a.dev/projects/)
-
-Hmu here:  
+### hmu here
 <a href="https://sarath.is-a.dev/blog/" alt="Blog">
    <img src="https://img.shields.io/badge/Blog-sarath.is--a.dev%2Fblog-green" />
 </a>
@@ -25,12 +19,11 @@ Hmu here:
 <a href="https://www.youtube.com/channel/UCQm5gZ7aw5qSqtg7VF6KAhg" alt="YT">
    <img src="https://img.shields.io/badge/Youtube-Cyber%20SharK-red" />
 </a>
-<br>
 <a href="https://discord.com/users/287436478030544896" alt="Discord">
    <img src="https://img.shields.io/badge/Discord-CyberShark%233467-9cf" />
 </a>
-<a href="https://medium.com/@cybershark" alt="Medium">
-  <img src="https://img.shields.io/badge/Medium-%40cybershark-black" />
+<a href="https://www.linkedin.com/in/cybershark/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/Linkedin-%40cybershark-black" />
 </a>
 <a href="https://stackoverflow.com/users/12674960/cybershark" alt="SO">
   <img src="https://img.shields.io/badge/SO-CyberShark-orange" />
@@ -38,8 +31,11 @@ Hmu here:
 <a href="https://www.instagram.com/sharkaboiii/" alt="IG">
   <img src="https://img.shields.io/badge/IG-@sharkaboiii-ff69b4" />
 </a>
-<br><br>
 
+### ( ͡° ͜ʖ ͡°)
 <a href="#" alt="( ͡° ͜ʖ ͡°)">
   <img src="https://gpvc.arturio.dev/sharkaboi" />
+</a>  
+<a href="https://ko-fi.com/sharkaboi" alt="( ͡° ͜ʖ ͡°)">
+   <img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg" height=30/>
 </a>
