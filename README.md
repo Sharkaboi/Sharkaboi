@@ -6,8 +6,8 @@ Just another fellow android dev.
 
 ### hmu 👇  
 
-<a href="https://sarath.is-a.dev/blog/" alt="Blog">
-   <img src="https://img.shields.io/badge/Blog-sarath.is--a.dev%2Fblog-green" />
+<a href="https://sarath.hashnode.dev/" alt="Blog">
+   <img src="https://img.shields.io/badge/Blog-sarath.hashnode.dev-green" />
 </a>
 <a href="https://twitter.com/sharkaboi" alt="Twitter">
    <img src="https://img.shields.io/badge/Twitter-%40sharkaboi-blue" />
