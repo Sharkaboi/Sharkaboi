@@ -32,12 +32,6 @@ Just another fellow android dev.
   <img src="https://img.shields.io/badge/IG-@sharkaboiii-ff69b4" />
 </a>
 
-### ( ͡° ͜ʖ ͡°)
-<table><tr><td align="center"> 
-   <a href="#" alt="( ͡° ͜ʖ ͡°)">
-     <img src="https://gpvc.arturio.dev/sharkaboi" />
-   </a>  
-   <a href="https://ko-fi.com/sharkaboi" alt="( ͡° ͜ʖ ͡°)">
-      <img src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg" height=30/>
-   </a>
-</td></tr></table>
+<a href="#" alt="( ͡° ͜ʖ ͡°)">
+  <img src="https://gpvc.arturio.dev/sharkaboi" />
+</a>  
