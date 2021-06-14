@@ -31,9 +31,3 @@ Just another fellow android dev.
 <a href="https://www.instagram.com/sharkaboiii/" alt="IG">
   <img src="https://img.shields.io/badge/IG-@sharkaboiii-ff69b4" />
 </a>
-<br>
-<br>
-
-<a href="#" alt="( ͡° ͜ʖ ͡°)">
-  <img src="https://gpvc.arturio.dev/sharkaboi" />
-</a>  
