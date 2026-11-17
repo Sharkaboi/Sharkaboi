@@ -2,7 +2,7 @@
 
 Just another fellow android dev.  
 
-[Check out my projects](https://sarath.is-a.dev/projects/)  
+[Check out my projects](https://sarath.app/projects/)  
 
 ### hmu 👇  
 
